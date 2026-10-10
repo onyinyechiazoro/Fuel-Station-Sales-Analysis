@@ -56,3 +56,22 @@ This project demonstrates how Python and Power BI can be used together to clean,
  Author
 
 Azoro Onyinyechi Favour
+
+ Project Visualizations
+
+ 1. Main Power BI Dashboard
+
+![Fuel Station Main Dashboard](images/Fuel_Station_Main_Dashboard1.png)
+
+ 2. Detailed Power BI Analysis
+
+![Fuel Station Detailed Analysis](images/Fuel_Station_Detailed_Analysis%202.png)
+
+ 3. Python Profit by Fuel Type
+
+![Python Profit by Fuel Type](images/Python_Profit_by_Fuel_Type3.png)
+
+ 4. Python Sales Amount by Day
+
+![Python Sales Amount by Day](images/Python_Sales_Amount_by_Day4.png)
+
